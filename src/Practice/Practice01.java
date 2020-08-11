@@ -10,7 +10,6 @@ public class Practice01 {
         nineNine();
     }
 
-
     public static void nineNine() {
         for (int col = 0; col <= 9; col++) {
             for (int row = 0; row <= 9; row++) {
